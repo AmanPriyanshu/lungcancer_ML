@@ -14,29 +14,29 @@ We will begin by introducing the dataset used. It is the "Air Quality-Lung Cance
 6. Status Variable: 
 7. Land_EQI: An environmental quality index (EQI) for all counties in the U.S. was developed, a comprehensive estimate of environmental quality for understanding of the relationship between environmental conditions and human health. Specific for LAND.
 8. Sociod_EQI: Specifics for Socio
-9. Built_EQI:
-10. LTD:
-11. Intercept:
-12. Slope:
-13. CLU50_1:
-14. PM10:
-15. SO2:
-16. NO2:
-17. O3:
-18. CO:
-19. CN:
-20. Disel:
-21. CS2:
-22. Air_EQI:
-23. Water_EQI:
-24. EQI:
-25. Status:
-26. LCI:
-27. UCI:
-28. Inter:
-29. Slp:
-30. control:
-31. treat:
-32. Local_Treat:
-33. AAC:
-34. RT:
+9. Built_EQI: Specifics for Built
+10. LTD:   -----------
+11. Intercept:   -----------
+12. Slope:   --------
+13. CLU50_1:   ---------------
+14. PM10: are the particles with a diameter of 10 micrometers and they are also called fine particles.
+15. SO2: Sulfur dioxide is a gas. It is invisible and has a nasty, sharp smell. It reacts easily with other substances to form harmful compounds, such as sulfuric acid, sulfurous acid and sulfate particles.
+16. NO2: Nitrogen Dioxide (NO2) is one of a group of highly reactive gases known as oxides of nitrogen or nitrogen oxides (NOx). Other nitrogen oxides include nitrous acid and nitric acid.
+17. O3: Ozone is an inorganic molecule with the chemical formula O3. It is a pale blue gas with a distinctively pungent smell. 
+18. CO: Carbon monoxide (CO) is a colorless, odorless, and tasteless flammable gas that is slightly less dense than air. It is toxic to animals that use hemoglobin as an oxygen carrier.
+19. CN: A cyanide is a chemical compound that contains the group C≡N. This group, known as the cyano group, consists of a carbon atom triple-bonded to a nitrogen atom.
+20. Diesel: a heavy petroleum fraction used as fuel in diesel engines. 
+21. CS2: Carbon disulfide is a colorless volatile liquid with the formula CS₂. The compound is used frequently as a building block in organic chemistry as well as an industrial and chemical non-polar solvent.
+22. Air_EQI: Air Environment Quality Index
+23. Water_EQI: Water Environmnet Quality Index
+24. EQI: environmental quality index
+25. Status: --------
+26. LCI: Lowest Concentration of Interest - The LCI concept was first developed by the 'European Collaborative Action on 'Indoor Air Quality and its Impact on Man' when considering the best way to evaluate emissions from solid flooring materials.
+27. UCI: ---------
+28. Inter: --------
+29. Slp: --------------
+30. control: ------------
+31. treat: ----------
+32. Local_Treat: -------
+33. AAC: ---------
+34. RT: --------------
