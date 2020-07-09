@@ -22,3 +22,6 @@ It includes the following features:
 * SWALLOWING DIFFICULTY
 * CHEST PAIN
 * LUNG_CANCER
+
+## CHECKOUT OUR ANALYSIS AND RESULTS AT THE GOOGLE COLAB: 
+https://colab.research.google.com/drive/12unMRKAHtxDxgxdwHl2a-exgZaZdauvz?usp=sharing
